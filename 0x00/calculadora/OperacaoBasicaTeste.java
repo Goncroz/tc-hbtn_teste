@@ -28,7 +28,7 @@ public class OperacaoBasicaTeste {
 	}
 
 	public static boolean testar_divisao() {
-		if(OperacaoBasica.dividir(5, 3) == 3) {
+		if(OperacaoBasica.dividir(9, 3) == 3) {
 			return true;
 		}
 		else {
